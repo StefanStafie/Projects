@@ -1,0 +1,23 @@
+#project div{
+	height:200px;
+	width:200px;
+	display:inline-block;
+	background-color:red;
+	margin:5px;
+}
+*{ 
+
+	text-align:center;
+}
+h4{
+	margin-top:-5px;
+}
+#project{
+	width:855px;
+	
+	margin:auto;
+}
+div a img {
+	height:200px;
+	width:200px;
+}
