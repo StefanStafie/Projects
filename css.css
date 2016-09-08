@@ -2,8 +2,10 @@
 	height:200px;
 	width:200px;
 	display:inline-block;
-	background-color:red;
+	border-radius: 30%;
+	border:1px solid black;
 	margin:5px;
+	padding:0px;
 }
 *{ 
 
@@ -13,7 +15,7 @@ h4{
 	margin-top:-5px;
 }
 #project{
-	width:855px;
+	width:865px;
 	
 	margin:auto;
 }
@@ -21,4 +23,6 @@ div a img {
 	height:200px;
 	width:200px;
 }
-please
+img {
+	border-radius: 30%;
+}
