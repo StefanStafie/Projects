@@ -1,3 +1,11 @@
+body{
+	padding-top:50px;
+	margin:auto;
+	background-image: url(http://www.planwallpaper.com/static/images/518079-background-hd.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
 #project div{
 	height:200px;
 	width:200px;
@@ -8,7 +16,9 @@
 	padding:0px;
 }
 *{ 
-
+	font-size:20px;
+	text-shadow: 2px 2px #000000;
+	color:white;
 	text-align:center;
 }
 h4{
